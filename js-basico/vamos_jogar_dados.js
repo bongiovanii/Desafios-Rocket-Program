@@ -32,8 +32,8 @@ Divirtam-se!
  
 */
 
-
-let player = 100;
+// se alterar o player pra 0 a porcentagem de vitórias e derrotas fica equilibrada
+let player = 0;
 let rodada = 0;
 
 console.log("Vamos jogar dados? Jogue um dado de 6 faces para ver oque acontece...");
